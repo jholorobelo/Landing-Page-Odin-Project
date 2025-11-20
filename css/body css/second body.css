@@ -1,0 +1,14 @@
+.second-container{
+   padding: 0 0 0 0;
+   background-color: white;
+   height: 500px;
+}
+
+.random-info{
+    display: flex;
+    font-size: 36px;
+    color: #1F2937;
+    margin-top: 80px;
+    justify-content: center;
+    font-weight: 600;
+}
