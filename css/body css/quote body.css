@@ -1,0 +1,31 @@
+.third-container{
+    background-color: #e5e7eb;
+    height: 500px;
+    padding: 0 0 0 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+/*.quote-box{
+   display: flex;
+   background-color: red;
+}*/
+
+.quote-text{
+    font-size: 36px;
+    font-weight: 300;
+    color: #1f2937;
+    width: 800px;
+}
+
+.quote-author{
+    display: flex;
+    font-size: 30px;
+    width: 800px;
+    justify-content: end;
+    color: #2f3845;
+    font-weight: 900;
+}
