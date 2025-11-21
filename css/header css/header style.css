@@ -1,6 +1,7 @@
 .first-container,
 .second-container,
-.third-container{
+.third-container, 
+.fourth-container{
     background-color: #1f2937;
     border-style: solid;
     height: 600px;
