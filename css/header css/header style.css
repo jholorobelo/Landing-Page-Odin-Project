@@ -1,7 +1,8 @@
 .first-container,
 .second-container,
 .third-container, 
-.fourth-container{
+.fourth-container,
+.footer{
     background-color: #1f2937;
     border-style: solid;
     height: 600px;
